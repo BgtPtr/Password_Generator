@@ -11,8 +11,8 @@ This program is a password generator in Python. When you start the program, you 
 If, on the other hand, you want a complex password, similar to the single password generation, you must first enter the desired length and then choose whether to include symbols, numbers and upper case letters. The program will then generate a password that meets the criteria you specify.
 The program also checks the length of the password you enter and only accepts it if it is between 20 and 92 characters long. If you enter incorrect information at any step, the program will provide error messages to help you enter the correct information. Finally, it prints the generated passwords to the screen.
 
-###########################################################################################################
-###########################################################################################################
+#######################################################################################
+#######################################################################################
 
 HUN
 
